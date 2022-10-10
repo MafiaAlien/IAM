@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("vim-goHelloWorld")
+	fmt.Println("HelloWorld")
 }
